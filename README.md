@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-demonstrating getting the first green square
+demonstrating getting the green square
+and more stuff.
