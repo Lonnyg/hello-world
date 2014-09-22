@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-demonstrating getting the first green square
+You can see more about me at http://www.appropedia.org/User:Lonny
